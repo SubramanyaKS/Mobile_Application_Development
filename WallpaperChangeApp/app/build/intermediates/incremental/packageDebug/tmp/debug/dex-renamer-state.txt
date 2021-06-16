@@ -1,0 +1,4 @@
+#Wed Jun 09 17:53:37 IST 2021
+base.0=E\:\\App\\WallpaperChangeApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
