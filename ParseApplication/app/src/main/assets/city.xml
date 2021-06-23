@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<records>
+<place>
+<name>Shivamogga</name>
+<lat>12.295</lat>
+<long>76.639</long>
+<temperature>32</temperature>
+<humidity>90 %</humidity>
+</place>
+<place>
+<name>Bangalore</name>
+<lat>12.97165</lat>
+<long>77.5946</long>
+<temperature>25</temperature>
+<humidity>74 %</humidity>
+</place>
+</records>
