@@ -1,0 +1,2 @@
+rootProject.name = "T2SApplication"
+include ':app'
